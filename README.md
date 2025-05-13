@@ -1,7 +1,3 @@
-# 💫 About Me:
-Java, JAVA SCRIPT developer. 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pro5383) 
 
